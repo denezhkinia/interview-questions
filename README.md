@@ -16,7 +16,7 @@ topic/
   ru/questions.md
 ```
 
-- **50 вопросов** на тему
+- **50 вопросов** на тему (JavaScript: **100** — 80 теории + 20 livecoding в `js/*/livecoding.md`)
 - Один смысл в RU и EN, одинаковый `ID`
 - Колонка **Rating**: `EPAM`, `FAANG` или оба
 
@@ -26,7 +26,7 @@ topic/
 |------|----|----|
 | HTML | [html/en](html/en/questions.md) | [html/ru](html/ru/questions.md) |
 | CSS | [css/en](css/en/questions.md) | [css/ru](css/ru/questions.md) |
-| JavaScript | [js/en](js/en/questions.md) | [js/ru](js/ru/questions.md) |
+| JavaScript | [js/en](js/en/questions.md) · [livecoding](js/en/livecoding.md) | [js/ru](js/ru/questions.md) · [livecoding](js/ru/livecoding.md) |
 | TypeScript | [ts/en](ts/en/questions.md) | [ts/ru](ts/ru/questions.md) |
 | React | [react/en](react/en/questions.md) | [react/ru](react/ru/questions.md) |
 | Next.js | [next/en](next/en/questions.md) | [next/ru](next/ru/questions.md) |
@@ -40,4 +40,4 @@ topic/
 | System Design | [system-design/en](system-design/en/questions.md) | [system-design/ru](system-design/ru/questions.md) |
 | Computer Networks | [computer-networks/en](computer-networks/en/questions.md) | [computer-networks/ru](computer-networks/ru/questions.md) |
 
-Итого: **15 × 50 = 750** вопросов (×2 языка формулировок).
+Итого: **14 × 50 + 100 (JS) = 800** вопросов (×2 языка формулировок).
